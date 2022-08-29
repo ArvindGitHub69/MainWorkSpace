@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2259" started-at="2022-07-31T19:21:01Z" finished-at="2022-07-31T19:21:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2259" started-at="2022-07-31T19:21:01Z" finished-at="2022-07-31T19:21:03Z">
+      <class name="org.api.RestAssuredPractice">
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:org.api.RestAssuredPractice@51565ec2]" name="postRequest" duration-ms="2244" started-at="2022-07-31T19:21:01Z" finished-at="2022-07-31T19:21:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+      </class> <!-- org.api.RestAssuredPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
