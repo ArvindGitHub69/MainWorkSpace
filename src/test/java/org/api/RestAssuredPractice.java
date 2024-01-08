@@ -9,7 +9,7 @@ import io.restassured.response.ResponseBody;
 
 public class RestAssuredPractice {
 
-	//@Test
+	@Test
 	public void getRequest() {
 
 		String url = "https://reqres.in/api/users/2";
